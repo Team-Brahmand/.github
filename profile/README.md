@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Team-Brahmand-IIITH/.github/main/profile/banner.png" alt="Team Brahmand Banner">
+  <img src="https://github.com/user-attachments/assets/4c98d008-9e40-40ad-971c-c21db6f979db"  alt="Team Brahmand Banner">
 </p>
 
 <div align="center">
