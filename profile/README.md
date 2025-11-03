@@ -24,6 +24,19 @@
 We tackle challenges across various domains, from aerodynamics and propulsion to embedded systems and ground control software.
 
 ---
+## Featured projects
+Click any card to open the repository.
+
+[![Individual-Component-Codes](https://opengraph.githubassets.com/1/Team-Brahmand/Individual-Component-Codes)](https://github.com/Team-Brahmand/Individual-Component-Codes)  
+**Individual-Component-Codes** — Repo with all the individual sensors and example codes for each sensor.
+
+[![repo-OG-2](https://opengraph.githubassets.com/1/<ORG_LOGIN>/<repo-2>)](https://github.com/<ORG_LOGIN>/<repo-2>)  
+**<repo-2>** — Short one-line description of repo-2.
+
+[![repo-OG-3](https://opengraph.githubassets.com/1/<ORG_LOGIN>/<repo-3>)](https://github.com/<ORG_LOGIN>/<repo-3>)  
+**<repo-3>** — Short one-line description of repo-3.
+
+--
 
 ## 🛠️ Our Work & Subsystems
 
