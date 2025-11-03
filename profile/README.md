@@ -19,7 +19,7 @@
 
 ## 🚀 About Us
 
-**Team Brahmand** is a multidisciplinary team of undergraduate students from the **International Institute of Information Technology, Hyderabad (IIIT-H)**. We are driven by a shared passion for aerospace engineering, robotics, and space exploration. Our mission is to design, build, and launch high-performance rockets and satellite systems for prestigious competitions like the Spaceport America Cup (SAC) and CANSAT.
+**Team Brahmand** is a multidisciplinary team of undergraduate students from the **International Institute of Information Technology, Hyderabad (IIIT-H)**. We are driven by a shared passion for aerospace engineering, robotics, and space exploration. Our mission is to design, build, and launch satellite systems for prestigious competitions like the Spaceport America Cup (SAC) and CANSAT.
 
 We tackle challenges across various domains, from aerodynamics and propulsion to embedded systems and ground control software.
 
