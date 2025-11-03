@@ -102,9 +102,3 @@ We are always looking for passionate and dedicated students from IIIT Hyderabad 
 **Reach out to us via [email](mailto:brahmand.iiith@gmail.com) or follow our social media for recruitment updates!**
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Team-Brahmand&theme=transparent&show_icons=true" />
-</p>
