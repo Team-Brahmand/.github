@@ -24,7 +24,7 @@
 We tackle challenges across various domains, from aerodynamics and propulsion to embedded systems and ground control software.
 
 ---
-## Featured projects
+## 🌟 Featured Projects
 
 <table>
   <tr>
@@ -63,6 +63,7 @@ We tackle challenges across various domains, from aerodynamics and propulsion to
     </td>
   </tr>
 </table>
+
 
 --
 
