@@ -53,11 +53,11 @@ We tackle challenges across various domains, from aerodynamics and propulsion to
       Final onboard code and build scripts.</p>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/Team-Brahmand/Onboard-Codes">
-        <img src="https://opengraph.githubassets.com/1/Team-Brahmand/Onboard-Codes" alt="Onboard-Codes" style="max-width:100%;">
+      <a href="https://github.com/Team-Brahmand/GCS-3D">
+        <img src="https://opengraph.githubassets.com/1/Team-Brahmand/GCS-3D" alt="GCS" style="max-width:100%;">
       </a>
-      <p><strong><a href="https://github.com/Team-Brahmand/Onboard-Codes">Onboard-Codes</a></strong><br>
-      Integrated onboard firmware and utilities.</p>
+      <p><strong><a href="https://github.com/Team-Brahmand/GCS-3D">Onboard-Codes</a></strong><br>
+      The ground station dashboard.</p>
     </td>
   </tr>
 </table>
