@@ -35,7 +35,6 @@ We tackle challenges across various domains, from aerodynamics and propulsion to
       <p><strong><a href="https://github.com/Team-Brahmand/Individual-Component-Codes">Individual-Component-Codes</a></strong><br>
       Repo with all the individual sensors and example codes for each sensor.</p>
     </td>
-
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/Team-Brahmand/Backup-parachute-system">
         <img src="https://opengraph.githubassets.com/1/Team-Brahmand/Backup-parachute-system" alt="Backup-parachute-system" style="max-width:100%;">
@@ -53,7 +52,6 @@ We tackle challenges across various domains, from aerodynamics and propulsion to
       <p><strong><a href="https://github.com/Team-Brahmand/CANSAT_ONBOARD_FINAL">CANSAT_ONBOARD_FINAL</a></strong><br>
       Final onboard code and build scripts.</p>
     </td>
-
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/Team-Brahmand/Onboard-Codes">
         <img src="https://opengraph.githubassets.com/1/Team-Brahmand/Onboard-Codes" alt="Onboard-Codes" style="max-width:100%;">
