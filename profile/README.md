@@ -106,5 +106,5 @@ We are always looking for passionate and dedicated students from IIIT Hyderabad 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/organization?org=Team-Brahmand-IIITH&theme=transparent&show_icons=true" alt="Team Brahmand GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Team-Brahmand&theme=transparent&show_icons=true" />
 </p>
